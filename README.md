@@ -17,6 +17,8 @@ Let's Connect and have a Chat!💬
   </a>
 </p>
 
+
+
 <!--
 **Tukhtasinov/Tukhtasinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +49,7 @@ technical_background:
   
 2024 Goals: ["Create a WebSite which makes me rich"]
 hobbies: ["Gaming", "Football", "Cinema"]
-
+```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -55,4 +57,3 @@ hobbies: ["Gaming", "Football", "Cinema"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
-'''
