@@ -60,4 +60,4 @@ hobbies: ["Gaming", "Football", "Cinema"]
 
 
 
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Tukhtasinov/Tukhtasinov/blob/output/github-contribution-grid-snake.svg)
