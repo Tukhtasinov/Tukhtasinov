@@ -4,7 +4,9 @@
 **Tukhtasinov/Tukhtasinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## '''yaml
+-->
+
+```yaml
 name: Tukhtasinov Doniyor
 located_in: Tashkent, Uzbekistan
 current_job: Python Developer
@@ -22,10 +24,9 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Python Developer"
+    "Python Developer",
     "Software Engineer",
   ]
   
-2024 Goals: ["Create a WebSite which is makes me rich"]
+2024 Goals: ["Create a WebSite which makes me rich"]
 hobbies: ["Gaming", "Football", "Cinema"]
-'''
