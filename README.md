@@ -1,6 +1,4 @@
-<div style="background: url(https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572); background-size: cover; text-align: center; padding: 50px 0;">
-  <h1 style="color: white; font-size: 48px;">Hello!</h1>
-</div>
+## Hi there 👋
 
 Let's Connect and have a Chat!💬
 
@@ -49,3 +47,13 @@ technical_background:
   
 2024 Goals: ["Create a WebSite which makes me rich"]
 hobbies: ["Gaming", "Football", "Cinema"]
+'''
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
+
