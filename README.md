@@ -47,9 +47,11 @@ technical_background:
   
 2024 Goals: ["Create a WebSite which makes me rich"]
 hobbies: ["Gaming", "Football", "Cinema"]
-'''
 
 
+<!--
+
+-->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
