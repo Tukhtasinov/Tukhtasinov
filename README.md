@@ -36,10 +36,12 @@ education:
 
 fields_of_interests:
   [
+    "Cybersecurity"
     "AI",
     "Data Science",
     "Machine Learning",
     "Game Development",
+     
   ]
 technical_background:
   [
