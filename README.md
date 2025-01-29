@@ -3,7 +3,7 @@
 Let's Connect and have a Chat!💬
 
 <p align="center">
-  <a href="https://t.me/iProgrammer_One" target="_blank">
+  <a href="https://t.me/doniyorbeck" target="_blank">
     <img src="https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/doniyorbek-tukhtasinov-931ab9258" target="_blank">
@@ -31,7 +31,8 @@ located_in: Tashkent, Uzbekistan
 current_job: Python Developer
 education:
   [
-    "Python Backend Course at PDP Academy"
+    "Python Backend Course at PDP Academy",
+    "Cybersecurity in TUIT 1/4",
   ]
 
 fields_of_interests:
@@ -40,7 +41,6 @@ fields_of_interests:
     "AI",
     "Data Science",
     "Machine Learning",
-    "Game Development",
      
   ]
 technical_background:
@@ -49,7 +49,7 @@ technical_background:
     "Software Engineer",
   ]
   
-2024 Goals: ["Create a WebSite which makes me rich"]
+2025 Goals: ["Create projects which make me rich"]
 hobbies: ["Gaming", "Football", "Cinema"]
 ```
 
@@ -62,4 +62,4 @@ hobbies: ["Gaming", "Football", "Cinema"]
 
 
 
-![Snake animation](https://github.com/Tukhtasinov/Tukhtasinov/blob/output/github-contribution-grid-snake.svg)
+
